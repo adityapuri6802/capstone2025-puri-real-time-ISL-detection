@@ -15,4 +15,5 @@ The system recognizes 11 ISL gestures in live video input from a webcam and over
   - Accuracy, confusion matrices, precision, recall per gesture  
   - Training curves reconstructed from logs  
 - **Real-Time Testing**: Live predictions with probability visualisation overlay  
-- **Results**: Achieved ~76% accuracy on test set; reliably detected most gestures in real-time.  
+- **Results**: Achieved ~76% accuracy on test set; reliably detected most gestures in real-time.
+- The custom recorded dataset, Action Recording video for training and live example of Real Time ISL Detection has been uploaded on google drive: https://drive.google.com/drive/folders/1kkreWvscM7e87SZU-clgHgeQUHujpSWs?usp=sharing
